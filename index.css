@@ -1,0 +1,12 @@
+ul {
+  text-align: right;
+  background-color:blueviolet;
+}
+li{
+  display: inline-block;
+  margin-left: 15px;
+  color: aliceblue;
+  padding-right: 30px;
+}
+
+
